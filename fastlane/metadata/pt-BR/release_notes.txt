@@ -1,0 +1,9 @@
+A versão 1.0 é o primeiro lançamento do BassDaunito.
+
+• Abra um livro como expedição e registre páginas no mapa.
+• Avista a próxima parada quando a reserva de páginas tiver vinte páginas. Avistar gasta vinte páginas e move o marcador.
+• Veja a deriva quando as páginas registradas passam à frente do marcador e arraste a régua MIRA.
+• Abra Estante, Sessão, Expedição, Ritmo e Ajustes a partir do mapa.
+• Ative Graus inteiros, mostre a introdução de novo, apague todos os dados ou abra Contato.
+
+Os registros de leitura, os livros que você adiciona e a marca da introdução permanecem neste dispositivo.

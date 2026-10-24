@@ -1,0 +1,9 @@
+Version 1.0 is the first release of BassDaunito.
+
+• Open one book as an expedition and log pages on the map.
+• Sight the next stop once the page pool holds twenty pages. Sight spends twenty pages and moves the marker.
+• See drift when logged pages run ahead of the marker, and drag the AIM rule.
+• Open Shelf, Session, Expedition, Pace, and Settings from the map.
+• Turn on Whole degrees, show the intro again, delete all data, or open Contact.
+
+Reading logs, books you add, and the intro flag stay on this device.

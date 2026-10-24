@@ -1,0 +1,11 @@
+BassDaunito é um diário de leitura que trata um livro aberto como uma expedição num mapa. Você registra as páginas lidas. Quando a reserva de páginas fica grande o bastante, você avista a próxima parada e o marcador avança pela linha. É para quem quer o progresso da leitura como paradas, deriva e uma reserva de páginas, neste dispositivo.
+
+• O status do mapa é "Registre páginas e aviste." com o selo "CURTO" até a reserva ter vinte páginas; depois, "Pronto para avistar." com o selo "PRONTO". "Registrar" soma de 1 a 200 páginas. "Avistar" gasta vinte páginas e move o marcador para a próxima parada.
+• "Deriva" mostra graus quando as páginas registradas passam à frente do marcador, a partir de "0°". Arraste a régua "MIRA". Esse arraste não registra páginas nem avista uma parada. "Graus inteiros" deixa a deriva da expedição e as marcações de avistamento em graus inteiros. A régua de mira continua com uma casa decimal.
+• "Estante" lista "A Costa do Agrimensor", "Latitude Noturna", "Meridiano de Papel" e "Marcação de Vidro". Busque "Título ou autor" ou use "Adicionar um livro".
+• "Sessão" lista cada quantidade de páginas registrada, da mais recente à mais antiga.
+• "Expedição" marca as paradas como "Avistada", "Próxima" ou "Adiante" e lista "AVISTAMENTOS" depois do primeiro avistamento.
+• "Ritmo" mostra "Páginas registradas", "Avistamentos feitos" e "Expedições concluídas".
+• "Mostrar a introdução de novo" mantém a expedição aberta. "Apagar todos os dados" remove cada expedição, livro e registro neste dispositivo. "Contato" abre a página de suporte.
+
+Uma instalação nova não tem expedição aberta nem páginas registradas. Uma expedição incompleta continua na próxima abertura. Tudo permanece neste dispositivo.

@@ -1,0 +1,11 @@
+BassDaunito is a reading log that treats one open book as an expedition on a map. You record pages you have read. Once the page pool is large enough, you sight the next stop and the marker moves along the line. It is for someone who wants reading progress as stops, drift, and a page pool, kept on this device.
+
+• Map status is "Log pages, then sight." with badge "SHORT" until the page pool holds twenty pages, then "Ready to sight." with badge "READY". "Log" adds 1 to 200 pages. "Sight" spends twenty pages and moves the marker to the next stop.
+• "Drift" shows degrees when logged pages pull ahead of the marker, from "0°". Drag the "AIM" rule. That drag does not log pages or sight a stop. "Whole degrees" makes expedition drift and sight bearings whole degrees. The aim rule still shows one decimal.
+• "Shelf" lists "The Surveyor's Coast", "Night Latitude", "Paper Meridian", and "Glass Bearing". Search "Title or author", or use "Add a book".
+• "Session" lists each logged page count, newest first.
+• "Expedition" marks stops "Sighted", "Next", or "Ahead", and lists "SIGHTS" after the first sight.
+• "Pace" shows "Pages logged", "Sights taken", and "Expeditions finished".
+• "Show intro again" keeps the open expedition. "Delete all data" removes every expedition, book, and log on this device. "Contact" opens the support page.
+
+A new install has no open expedition and no logged pages. An unfinished expedition resumes on the next launch. Everything stays on this device.
